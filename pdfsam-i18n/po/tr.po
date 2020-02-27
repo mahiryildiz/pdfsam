@@ -969,7 +969,7 @@ msgid "180 degrees clockwise"
 msgstr "180 derece saat yönüne"
 
 msgid "90 degrees counterclockwise"
-msgstr "Saat yönünde 90 derece"
+msgstr "Saat yönünün tersinde 90 derece"
 
 msgid "Rotate "
 msgstr "Döndür "
